@@ -13,5 +13,6 @@ The game features a selected variety of enemies and weapons; the gameplay is bas
 - Open the _project.greenfoot_ file with Greenfoot.
 - In order to run again the project click _Tools > Recompile Scenario_ [](readme_img/recompile.png)
 
+
 ##Credits
 Thanks to @SebastianMayG and @SantiagoGMG for working on the assets and the "final boss", and @Luisalbertochinpro12 for designing the title screen.
