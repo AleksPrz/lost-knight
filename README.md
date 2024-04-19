@@ -1,6 +1,7 @@
 # About
 This is a Greenfoot project made in 2023 to implement the object-oriented programming (OOP) concepts I had just learned in class.
 The game features a selected variety of enemies and weapons; the gameplay is based on The Binding of Isaac and the first The Legend of Zelda game.
+
 [Here is a video running the project.](https://youtu.be/e0CvzxY39Ac "Here is a video running the project")
 <p align="center">
   <img src="readme_img/ingame.png" alt="Descripción opcional de la imagen" />
